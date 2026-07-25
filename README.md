@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Onirban Dey 👋
 
-<!--
-**onirbandey2-dotcom/onirbandey2-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Undergraduate passionate about Software Development, Artificial Intelligence, Cybersecurity, and Cloud Computing.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building projects that solve real-world problems using modern technologies
+- 🌱 Currently learning Data Structures & Algorithms, System Design, and Cloud Computing
+- 🔒 Interested in Cybersecurity and Artificial Intelligence
+- ☁️ Exploring AWS and Docker
+- 📚 Continuously improving my problem-solving and software engineering skills
+
+## 🛠️ Technical Skills
+
+### Languages
+- Python
+- Java
+- C
+- JavaScript
+- SQL
+
+### Technologies & Tools
+- FastAPI
+- React
+- Node.js
+- Git & GitHub
+- Docker
+- MySQL
+- PostgreSQL
+
+### Currently Exploring
+- AWS
+- Machine Learning
+- Large Language Models (LLMs)
+
+## 📂 Projects
+
+- 🤖 AI Code Review Platform
+- 🛡️ PhishGuard – AI-based Phishing Detection System
+- 🥗 NutriVision AI – Intelligent Food Recognition & Nutrition Analysis
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/onirbandey2-dotcom
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
+
+---
+
+⭐ Passionate about building impactful software, learning new technologies, and contributing to open-source projects.
